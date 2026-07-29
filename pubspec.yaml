@@ -1,0 +1,5 @@
+name: project_uas
+description: UAS PBO - Sistem Perpustakaan (Dart CLI)
+version: 1.0.0
+environment:
+  sdk: '>=2.19.0 <4.0.0'
