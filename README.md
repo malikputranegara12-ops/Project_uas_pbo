@@ -1,7 +1,7 @@
 # UAS Pemrograman Berorientasi Objek (Dart) — Sistem Perpustakaan
 
-**Nama :** (isi nama Anda)
-**NIM  :** (isi NIM Anda)
+**Nama :** (Gusti Malik)
+**NIM  :** (251240001701)
 
 ## Tema Aplikasi
 Sistem Perpustakaan — aplikasi CLI sederhana untuk mengelola koleksi buku dan
